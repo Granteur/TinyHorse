@@ -1,0 +1,54 @@
+body{
+	font-family: 'cardo', serif;
+	margin:0;
+}
+
+.profile{
+	size:20%;
+}
+
+li a{
+	text-decoration: none;
+	color: white;
+}
+li a:hover{
+	text-decoration-color: #e35443;
+	color: white;
+}
+
+.peach{
+	background-color: #F4EAE9;
+}
+.photo{
+	background-image: url(priscilla-du-preez-234138-unsplash.jpg);
+	background-position: bottom center;
+	background-repeat: no-repeat;
+	height: 700px;
+}
+
+.box1{
+	font-size: 40px;
+	font-weight: 400;
+	color: white;
+	justify-content: center;
+}
+
+.address, .cities, .copyright{
+	color: white;
+}
+
+
+.tripcrown{
+	background-color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.center{
+	position: center;
+}
+
+.upcaps{
+	color: white;
+	font-size: 16px;
+}
